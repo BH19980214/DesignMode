@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\bin\Debug\netcoreapp3.1\原型深复刻.exe
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\bin\Debug\netcoreapp3.1\原型深复刻.deps.json
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\bin\Debug\netcoreapp3.1\原型深复刻.runtimeconfig.json
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\bin\Debug\netcoreapp3.1\原型深复刻.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\bin\Debug\netcoreapp3.1\原型深复刻.dll
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\bin\Debug\netcoreapp3.1\原型深复刻.pdb
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\obj\Debug\netcoreapp3.1\原型深复刻.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\obj\Debug\netcoreapp3.1\原型深复刻.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\obj\Debug\netcoreapp3.1\原型深复刻.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\obj\Debug\netcoreapp3.1\原型深复刻.dll
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\obj\Debug\netcoreapp3.1\原型深复刻.pdb
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\obj\Debug\netcoreapp3.1\原型深复刻.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\原型模式\原型深复刻\obj\Debug\netcoreapp3.1\原型深复刻.csprojAssemblyReference.cache

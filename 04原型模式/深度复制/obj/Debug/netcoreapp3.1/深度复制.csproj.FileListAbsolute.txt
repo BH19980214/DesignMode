@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\原型模式\深度复制\bin\Debug\netcoreapp3.1\深度复制.exe
+C:\Users\ASUS\source\repos\原型模式\深度复制\bin\Debug\netcoreapp3.1\深度复制.deps.json
+C:\Users\ASUS\source\repos\原型模式\深度复制\bin\Debug\netcoreapp3.1\深度复制.runtimeconfig.json
+C:\Users\ASUS\source\repos\原型模式\深度复制\bin\Debug\netcoreapp3.1\深度复制.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\原型模式\深度复制\bin\Debug\netcoreapp3.1\深度复制.dll
+C:\Users\ASUS\source\repos\原型模式\深度复制\bin\Debug\netcoreapp3.1\深度复制.pdb
+C:\Users\ASUS\source\repos\原型模式\深度复制\obj\Debug\netcoreapp3.1\深度复制.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\原型模式\深度复制\obj\Debug\netcoreapp3.1\深度复制.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\原型模式\深度复制\obj\Debug\netcoreapp3.1\深度复制.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\原型模式\深度复制\obj\Debug\netcoreapp3.1\深度复制.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\原型模式\深度复制\obj\Debug\netcoreapp3.1\深度复制.dll
+C:\Users\ASUS\source\repos\原型模式\深度复制\obj\Debug\netcoreapp3.1\深度复制.pdb
+C:\Users\ASUS\source\repos\原型模式\深度复制\obj\Debug\netcoreapp3.1\深度复制.genruntimeconfig.cache

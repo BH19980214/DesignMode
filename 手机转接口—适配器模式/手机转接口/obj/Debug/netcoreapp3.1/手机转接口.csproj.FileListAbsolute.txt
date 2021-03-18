@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\obj\Debug\netcoreapp3.1\手机转接口.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\obj\Debug\netcoreapp3.1\手机转接口.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\obj\Debug\netcoreapp3.1\手机转接口.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\obj\Debug\netcoreapp3.1\手机转接口.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\bin\Debug\netcoreapp3.1\手机转接口.exe
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\bin\Debug\netcoreapp3.1\手机转接口.deps.json
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\bin\Debug\netcoreapp3.1\手机转接口.runtimeconfig.json
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\bin\Debug\netcoreapp3.1\手机转接口.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\bin\Debug\netcoreapp3.1\手机转接口.dll
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\bin\Debug\netcoreapp3.1\手机转接口.pdb
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\obj\Debug\netcoreapp3.1\手机转接口.dll
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\obj\Debug\netcoreapp3.1\手机转接口.pdb
+C:\Users\ASUS\source\repos\手机转接口\手机转接口\obj\Debug\netcoreapp3.1\手机转接口.genruntimeconfig.cache

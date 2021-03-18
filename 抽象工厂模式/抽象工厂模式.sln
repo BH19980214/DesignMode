@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂模式", "抽象工厂模式\抽象工厂模式.csproj", "{04F7CBA5-06AC-4347-9242-65DF87A99374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F7CBA5-06AC-4347-9242-65DF87A99374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F7CBA5-06AC-4347-9242-65DF87A99374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F7CBA5-06AC-4347-9242-65DF87A99374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F7CBA5-06AC-4347-9242-65DF87A99374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F526E73-AEB0-455E-B200-2AD865F114F9}
+	EndGlobalSection
+EndGlobal

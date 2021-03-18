@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\bin\Debug\netcoreapp3.1\05适配器模式.exe
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\bin\Debug\netcoreapp3.1\05适配器模式.deps.json
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\bin\Debug\netcoreapp3.1\05适配器模式.runtimeconfig.json
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\bin\Debug\netcoreapp3.1\05适配器模式.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\bin\Debug\netcoreapp3.1\05适配器模式.dll
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\bin\Debug\netcoreapp3.1\05适配器模式.pdb
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\obj\Debug\netcoreapp3.1\05适配器模式.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\obj\Debug\netcoreapp3.1\05适配器模式.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\obj\Debug\netcoreapp3.1\05适配器模式.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\obj\Debug\netcoreapp3.1\05适配器模式.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\obj\Debug\netcoreapp3.1\05适配器模式.dll
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\obj\Debug\netcoreapp3.1\05适配器模式.pdb
+C:\Users\ASUS\source\repos\05适配器模式\05适配器模式\obj\Debug\netcoreapp3.1\05适配器模式.genruntimeconfig.cache

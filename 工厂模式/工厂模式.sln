@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂模式", "工厂模式\工厂模式.csproj", "{370DF47B-8B9E-4229-976E-92A84EF6CB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{370DF47B-8B9E-4229-976E-92A84EF6CB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370DF47B-8B9E-4229-976E-92A84EF6CB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370DF47B-8B9E-4229-976E-92A84EF6CB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370DF47B-8B9E-4229-976E-92A84EF6CB13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEF30AA-6928-4990-873E-83E769B8D1A2}
+	EndGlobalSection
+EndGlobal

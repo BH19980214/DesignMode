@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "开放封闭原则实例/1.0.0": {
+        "runtime": {
+          "开放封闭原则实例.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "开放封闭原则实例/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
